@@ -1,0 +1,89 @@
+{
+    "cards": [
+      { "id": 1, "name": "Consultations", "value": 24, "compValue": 20 },
+      { "id": 2, "name": "Orders Placed", "value": 12, "compValue": 8 },
+      { "id": 3, "name": "Conversion", "value": 50, "compValue": 43.48 },
+      { "id": 4, "name": "Total Sales Value", "value": 2400, "compValue": 2823.5 },
+      { "id": 5, "name": "Avg Order Value", "value": 240, "compValue": 282.35 },
+      { "id": 6, "name": "Commission Paid", "value": 2240, "compValue": 2635.2 }
+    ],
+  
+    "chartData": [
+      { "month": "January",   "incoming": 142, "answered": 95,  "experts": 68 },
+      { "month": "February",  "incoming": 278, "answered": 175, "experts": 82 },
+      { "month": "March",     "incoming": 196, "answered": 110, "experts": 59 },
+      { "month": "April",     "incoming": 310, "answered": 160, "experts": 74 },
+      { "month": "May",       "incoming": 189, "answered": 140, "experts": 67 },
+      { "month": "June",      "incoming": 245, "answered": 180, "experts": 90 },
+      { "month": "July",      "incoming": 132, "answered": 105, "experts": 53 },
+      { "month": "August",    "incoming": 176, "answered": 130, "experts": 77 },
+      { "month": "September", "incoming": 213, "answered": 150, "experts": 85 },
+      { "month": "October",   "incoming": 198, "answered": 120, "experts": 69 },
+      { "month": "November",  "incoming": 259, "answered": 190, "experts": 88 },
+      { "month": "December",  "incoming": 305, "answered": 200, "experts": 95 }
+    ],
+  
+    "comparisonChartData": [
+      { "period": "Last Week", "consultations": 120, "ordersClosed": 80 },
+      { "period": "This Week", "consultations": 140, "ordersClosed": 100 }
+    ],
+  
+    "tableData": [
+      {
+        "id": 1,
+        "name": "Product A",
+        "date": "24 Apr '2024",
+        "hour": "10:24 AM",
+        "timeSpent": "2h 5m",
+        "orderValue": "$120.21",
+        "commission": "$55",
+        "avatar": "https://down-br.img.susercontent.com/file/sg-11134201-22100-03hkywfvsaiv64",
+        "description": "Product description A"
+      },
+      {
+        "id": 2,
+        "name": "Product B",
+        "date": "23 Apr '2024",
+        "hour": "09:20 AM",
+        "timeSpent": "3h 10m",
+        "orderValue": "$80.00",
+        "commission": "$40",
+        "avatar": "https://down-br.img.susercontent.com/file/sg-11134201-22100-03hkywfvsaiv64",
+        "description": "Product description B"
+      },
+      {
+        "id": 3,
+        "name": "Product C",
+        "date": "25 Apr '2024",
+        "hour": "11:00 AM",
+        "timeSpent": "1h 30m",
+        "orderValue": "$200.00",
+        "commission": "$100",
+        "avatar": "https://down-br.img.susercontent.com/file/sg-11134201-22100-03hkywfvsaiv64",
+        "description": "Product description C"
+      },
+      {
+        "id": 4,
+        "name": "Product D",
+        "date": "20 Apr '2024",
+        "hour": "08:24 AM",
+        "timeSpent": "4h 20m",
+        "orderValue": "$50.21",
+        "commission": "$25",
+        "avatar": "https://down-br.img.susercontent.com/file/sg-11134201-22100-03hkywfvsaiv64",
+        "description": "Product description D"
+      },
+      {
+        "id": 5,
+        "name": "Product E",
+        "date": "24 Apr '2024",
+        "hour": "10:24 AM",
+        "timeSpent": "2h 5m",
+        "orderValue": "$120.21",
+        "commission": "$55",
+        "avatar": "https://down-br.img.susercontent.com/file/sg-11134201-22100-03hkywfvsaiv64",
+        "description": "Product description E"
+      }
+    ]
+  }
+  
